@@ -8,3 +8,5 @@ Data analysis using Excel
 2) EXCEL formula Sheet with practice data.
 
 3) XLOOKUP formula and examples with practice data.
+
+4) Conditional Formatting examples.
