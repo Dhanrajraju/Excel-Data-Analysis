@@ -6,3 +6,5 @@ Data analysis using Excel
  Pivot table  analysis for the pre existing dataset. 
  
 2) EXCEL formula Sheet with practice data.
+
+3) XLOOKUP formula and examples with practice data.
