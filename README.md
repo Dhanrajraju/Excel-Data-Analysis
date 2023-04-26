@@ -10,3 +10,5 @@ Data analysis using Excel
 3) XLOOKUP formula and examples with practice data.
 
 4) Conditional Formatting examples.
+
+5) Charts using Excels for a small dataset.
